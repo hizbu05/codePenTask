@@ -1,0 +1,21 @@
+body{
+  background-color: peachpuff ;
+  text-align: center;
+  padding: 50px;
+}
+h1{
+  font-size: larger;
+  font-style: italic;
+  color: black;
+  padding: 20px;
+  font-weight: bold;
+}
+p1{
+  text-align: center;
+}
+h2{
+  font-size: larger;
+  font-style: italic;
+  font-weight: bold;
+  padding: 2s0px;
+}
